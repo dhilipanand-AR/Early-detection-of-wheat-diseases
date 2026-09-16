@@ -66,7 +66,12 @@ Through this project, I developed an understanding of:
 Further development of this project could explore **image-based disease identification, machine learning, digital plant monitoring and automated disease detection**.
 
 ---
+## 💻 Computational Work
 
+As part of the project, I also developed problem-solving programs related to wheat disease and leaf data.
+
+👉 **View Computational Work:** [GFG Problems](https://github.com/dhilipanand-AR/gfg-problems)
+---
 <div align="center">
 
 ### 🌱 Learn • Explore • Apply
