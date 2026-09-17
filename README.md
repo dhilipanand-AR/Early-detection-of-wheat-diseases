@@ -70,8 +70,8 @@ Further development of this project could explore **image-based disease identifi
 
 As part of the project, I also developed problem-solving programs related to wheat disease and leaf data.
 
-👉 **View Computational Work:** [GFG Problems](https://github.com/dhilipanand-AR/gfg-problems)
----
+👉 **View Computational Work:** [Wheat Disease Problem Solving](https://github.com/dhilipanand-AR/wheat-disease-problem-solving)
+
 <div align="center">
 
 ### 🌱 Learn • Explore • Apply
